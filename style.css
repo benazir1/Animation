@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding:0;
-    background-color: aqua;
+  
 }
 .box{
     position: absolute;
@@ -13,7 +13,7 @@
     background-position: 0;
     background: url(download.jpg);
     animation: animate 1s steps(6) infinite;
-    background-color: aqua;
+   
 }
 @keyframes animate
 {
